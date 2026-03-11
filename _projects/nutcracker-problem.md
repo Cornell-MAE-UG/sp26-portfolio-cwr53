@@ -1,1 +1,5 @@
-![Worked problem solution](https://cornell-mae-ug.github.io/sp26-portfolio-cwr53/assets/images/nutcracker-problem.png)
+---
+layout: default
+---
+
+![Worked problem solution]({{ site.baseurl }}/assets/images/nutcracker-problem.png)
