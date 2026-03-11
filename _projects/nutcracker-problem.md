@@ -1,1 +1,1 @@
-![Worked problem solution](../assets/images/nutcracker-problem.png)
+![Worked problem solution](https://cornell-mae-ug.github.io/sp26-portfolio-cwr53/assets/images/nutcracker-problem.png)
